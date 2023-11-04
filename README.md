@@ -1,6 +1,5 @@
 # AI-phabet
 
-
 Welcome to this project, where we embark on the exciting journey of building an alphabet classifier model to classify handwritten letters captured by a camera.
 
 ## Prerequisites
@@ -26,6 +25,8 @@ Once we've laid the foundation, we'll delve into the mathematical aspects of bui
 
 With a solid understanding in place, we will translate our knowledge into code and proceed to train the model. 
 We'll start by training our model on the [MNIST](https://www.tensorflow.org/datasets/catalog/mnist) dataset, which contains 28x28 pixel images of handwritten digits. After successful training, we'll apply the same model to a similar but larger dataset called [EMNIST](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format/). This dataset consists of around 350,000 (28x28 pixel) images of handwritten alphabets. Later in the project, we'll provide modified versions of these datasets for our work.
+
+After our classifier is trained, we'll explore the methods of preprocessing and character extraction from images. We'll then put our model to test by feeding these character images into our model for character recognition.
 
 Let's get started and embark on this exciting journey together!
 
