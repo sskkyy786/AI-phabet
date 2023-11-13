@@ -1,6 +1,6 @@
 # AI-phabet
 
-![Neural Network Image](https://imgur.com/CYxTpph)
+![Neural Network Image](https://imgur.com/CYxTpph.png)
 
 Welcome to this project, where we embark on the exciting journey of building an alphabet classifier model to classify handwritten letters captured by a camera.
 
