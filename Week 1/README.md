@@ -8,7 +8,7 @@ This week we talk about -
 
 To make sure that you understand things well, we have given a brief description of the topics followed by links ranging from beginner's to advanced material. It is okay if you don't understand everything in the first go. The topics covered lay the foundations of Machine Learning, so take your time to understand things well. Also, it is not so important to get into everything rigorously, you can do that as per your needs later in the course, but do read the things and get an overall notion.
 
-Since all of you are already familiar with python, I assume youd have worked with Jupyter Notebook before. If not then feel free to ping me (Pranjal), I'll provide you some additional material.
+Assuming you're already familiar with Python, I expect you've worked with Jupyter Notebook. If not, feel free to reach out to me (Pranjal), and I'll provide you with some additional material to get you up to speed.
 
 ## Data Visualization using Matplotlib
 
