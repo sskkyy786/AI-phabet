@@ -49,8 +49,8 @@ One of the main advantages of Numpy is that vectorisation using numpy arrays mak
 
 ### Useful Resources
 
-* **[Quickstart](https://numpy.org/doc/stable/user/quickstart.html)**
-* **[Numpy Basics](https://medium.com/dataseries/python-basics-in-numpy-for-machine-learning-data-science-6641c8c3892f)**
+* **[Quickstart](https://www.w3schools.com/python/numpy/numpy_intro.asp)**
+* **[Numpy Basics](https://numpy.org/doc/stable/user/quickstart.html)**
 
 ## Useful Links
 
