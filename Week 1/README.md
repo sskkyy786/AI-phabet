@@ -1,10 +1,8 @@
 # Week 1
 
-Welcome to the course! 
-This week we talk about - 
-* Data Visualisation using Matplotlib
+Topics to be covered this week : 
+* Essential libraries: Numpy and Matplotlib
 * Data Distribution
-* Numpy 
 
 To make sure that you understand things well, we have given a brief description of the topics followed by links ranging from beginner's to advanced material. It is okay if you don't understand everything in the first go. The topics covered lay the foundations of Machine Learning, so take your time to understand things well. Also, it is not so important to get into everything rigorously, you can do that as per your needs later in the course, but do read the things and get an overall notion.
 
@@ -12,16 +10,15 @@ Assuming you're already familiar with Python, I expect you've worked with Jupyte
 
 ## Data Visualization using Matplotlib
 
-Before creating analytical models, a data scientist must develop an understanding of the properties and relationships in a dataset. There are two goals for data exploration and visualization - 
-* To understand the relationships between the data columns.
-* To identify features that may be useful for predicting labels in machine learning projects. Additionally, redundant, collinear features can be identified.   
+Before constructing analytical models, a data scientist needs to gain insight into the characteristics and connections within a dataset. The objectives of data exploration and visualization can be summarized into two main goals:
+* Grasping the relationships between different data columns.
+* Finding features that can be useful for predicting labels in machine learning projects and identifying any redundant or collinear features.
 
-Thus, visualization for data exploration is an essential data science skill. 
-Here, we’ll learn to analyze data via various types of plots offered by matplotlib and seaborn library.
+Therefore, being able to visually explore data is a vital skill in data science. In this context, we'll explore how to analyze data using various types of plots provided by the matplotlib and seaborn libraries.
 
 ### Useful Resources
 
-* **[Light Introduction](https://www.geeksforgeeks.org/python-introduction-matplotlib/)**
+* **[Introduction](https://www.geeksforgeeks.org/python-introduction-matplotlib/)**
 * **[Beginner's Guide](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python)**
 * **[Data Visualisation](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7)**
 
