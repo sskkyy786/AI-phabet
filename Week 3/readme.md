@@ -42,6 +42,11 @@ Under Back Propagation, we use the loss calculated using loss function to make c
 
 We keep on repeating forward and backward propagation for many epochs to decrease value of cost function and increase accuracy.
 
+## Back Propagation Implementation <u>(IMPORTANT!!)</u>
+
+Please go through these notes to understand how the gradient matrices are made in the model's code
+- Go through [these](https://drive.google.com/file/d/1nYFK9exhw38IHi2jIVAsULDjEwoNjNVK/view?usp=sharing) notes followed by [this](https://drive.google.com/file/d/1vj-WZzPruCrIl5jDgEK9P8S0DRfnYF5z/view?usp=sharing) file.
+
 ## Multi-class Classification using NN
 Rather than just to classify an object between yes/no. If we wish to classify it into more than 2 items using NN, we can do it similarly just the only difference will be that the output yhat will be a Mx1 matrix rather than 1x1 for a m class classifier.
 - Refer [this](https://www.youtube.com/watch?v=oOSXQP7C7ck) to see it's implementation.
