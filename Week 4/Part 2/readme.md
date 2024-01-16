@@ -6,3 +6,5 @@ For handwritten alphabets classifier, we'll be using the EMNIST(extended MNIST) 
 - EMNIST's similarity to MNIST will make the task of implementing our MNIST model to EMNIST model much simpler, requiring only a few minor changes (can you figure them out?).
 
 You can download the EMNIST dataset from [here](https://drive.google.com/file/d/19pLVDMwag_FIftNdwMBtbUbAuDUtnhgf/view?usp=sharing), and complete the code in [this](https://colab.research.google.com/drive/17cbhaP5hoci-8mYiXxBThBMZqs3hceAn?usp=sharing) colab notebook
+
+[Colab File Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSf8DILfPm-lMB8cP1hq8TclONV5AZvneoXlDPHGR_lNI6w-Cg/viewform)
